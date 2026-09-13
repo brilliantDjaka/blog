@@ -57,7 +57,7 @@ Via the web UI:
 Or via the CLI (equivalent):
 
 ```bash
-gh api repos/brilliantDjaka/blog/pages -X POST -f source[branch]=main -f source[path]=/
+gh api repos/brilliantDjaka/blog/pages -X POST -f build_type=workflow
 ```
 
 ### 3. Deploy

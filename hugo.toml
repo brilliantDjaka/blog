@@ -1,7 +1,7 @@
 baseURL = "https://brilliantdjaka.github.io/blog/"
 locale = "en-us"
 defaultContentLanguage = "en"
-title = "Brilliant's Blog"
+title = "💻 Brilliant's Blog 💻"
 
 enableRobotsTXT = true
 enableEmoji = true
@@ -11,13 +11,11 @@ enableGitInfo = true
 theme = "DoIt"
 
 # site description
-# 网站描述
 description = "Personal blog of Brilliant Djaka"
 
 [params]
   # website title
-  # 网站标题
-  title = "Brilliant's Blog"
+  title = "💻 Brilliant's Blog 💻"
   # site default theme ("light", "dark", "black", "auto")
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
@@ -37,7 +35,7 @@ description = "Personal blog of Brilliant Djaka"
     rss = 10
     [params.home.profile]
       enable = true
-      title = "Brilliant's Blog"
+      title = "💻 Brilliant's Blog 💻"
       subtitle = "Personal blog of Brilliant Djaka"
       typeit = false
       social = true

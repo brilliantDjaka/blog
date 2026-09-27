@@ -1,18 +1,18 @@
 ---
 title: "ZRAM: Compressing RAM Into Its Limit For Daily Use"
 subtitle: "This is the very first post on this blog."
-date: 2026-09-13T21:00:00+07:00
-lastmod: 2026-09-13T21:00:00+07:00
-draft: false
+date: 2026-09-27T10:23:56.166Z
+lastmod: 2026-09-27T10:23:56.166Z
+draft: true
 authors: []
 description: ""
 
-tags: ["meta"]
-categories: ["meta"]
+tags: ["zram", "weekend", "linux"]
+categories: ["linux"]
 series: []
 
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "/blog/images/zram/zram-featured.jpg"
+featuredImagePreview: "/blog/images/zram/zram-featured.jpg"
 
 toc:
   enable: true

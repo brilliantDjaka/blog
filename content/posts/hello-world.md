@@ -3,7 +3,7 @@ title: "Hello World"
 subtitle: "This is the very first post on this blog."
 date: 2026-09-13T21:00:00+07:00
 lastmod: 2026-09-13T21:00:00+07:00
-draft: false
+draft: true
 authors: []
 description: "The first post on Brilliant's Blog, powered by Hugo and the DoIt theme."
 
